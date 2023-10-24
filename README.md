@@ -4,6 +4,12 @@
 ## NRP : 5025211148
 ## Kelas : PBKK C
 
+### Hasil Tampilan
+
+<img width="960" alt="Halaman Depan" src="https://github.com/katarinainezita/school-management-system/assets/109232320/09337dc2-01af-407d-a1d5-e8312de721ae">
+
+![Create a Product](https://github.com/katarinainezita/school-management-system/assets/109232320/71589868-7643-4a6c-acbe-f576be9d785b)
+
 
 
 
