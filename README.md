@@ -10,7 +10,15 @@
 
 ![Create a Product](https://github.com/katarinainezita/school-management-system/assets/109232320/71589868-7643-4a6c-acbe-f576be9d785b)
 
+![Product Created Successfully](https://github.com/katarinainezita/school-management-system/assets/109232320/68cf16c8-87cd-4869-9fc1-5f61348398d6)
 
+![Edit a Product](https://github.com/katarinainezita/school-management-system/assets/109232320/f419f1e8-6b3f-48f7-bd61-461b9304c9d5)
+
+![Validation](https://github.com/katarinainezita/school-management-system/assets/109232320/93454303-03ca-4cdd-b8ac-5bc12fa2b04f)
+
+![Product Updated Successfully](https://github.com/katarinainezita/school-management-system/assets/109232320/de70076c-c6de-4dee-bf5c-bcb41949ffb6)
+
+![Product Deleted Successfully](https://github.com/katarinainezita/school-management-system/assets/109232320/99ff4786-2eda-4a5b-a760-69b1ff512ab1)
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
